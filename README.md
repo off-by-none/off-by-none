@@ -1,4 +1,4 @@
-👋 Hi, I’m @off-by-none
+Hello, World!
 
 <!---
 off-by-none/off-by-none is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
